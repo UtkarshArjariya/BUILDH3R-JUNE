@@ -1,0 +1,1 @@
+I tried all the commands provided in the video, but unfortunately, they are not running as expected. As a result, I was only able to perform two tasks out of the total. The remaining tasks are dependent on the successful execution of these first two tasks. I have attached the relevant images in the "images" folder.
