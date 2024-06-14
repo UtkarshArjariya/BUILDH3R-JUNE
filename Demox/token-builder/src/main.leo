@@ -1,5 +1,5 @@
-// The 'token_buildh3r' program.
-program token_buildh3r.aleo {
+// The 'token_buildh3r_june' program.
+program token_buildh3r_june.aleo {
     record Token {
         owner: address,
         balance: u32
