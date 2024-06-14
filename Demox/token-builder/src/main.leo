@@ -1,5 +1,5 @@
-// The 'token_buildher' program.
-program token_buildher.aleo {
+// The 'token_buildh3r' program.
+program token_buildh3r.aleo {
     record Token {
         owner: address,
         balance: u32

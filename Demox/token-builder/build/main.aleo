@@ -1,4 +1,4 @@
-program token_buildher.aleo;
+program token_buildh3r.aleo;
 
 record Token:
     owner as address.private;
